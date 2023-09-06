@@ -19,4 +19,4 @@ function div (num1, nume2) {
     return result;
 }
 
-module.exports = { suma, resta, mult, div}
+export { suma, resta, mult, div };
