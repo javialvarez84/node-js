@@ -1,0 +1,23 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "calculadora creado con commonJs",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javialvarez84/node-js.git"
+  },
+  "keywords": [
+    "js",
+    "commonjs"
+  ],
+  "author": "Javier Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javialvarez84/node-js/issues"
+  },
+  "homepage": "https://github.com/javialvarez84/node-js#readme"
+}
